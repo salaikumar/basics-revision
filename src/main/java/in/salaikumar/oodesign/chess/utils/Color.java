@@ -1,4 +1,4 @@
-package in.salaikumar.oodesign.chess;
+package in.salaikumar.oodesign.chess.utils;
 
 /**
  * enum for Color.

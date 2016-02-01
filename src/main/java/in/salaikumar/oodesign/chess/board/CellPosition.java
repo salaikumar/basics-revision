@@ -1,4 +1,4 @@
-package in.salaikumar.oodesign.chess;
+package in.salaikumar.oodesign.chess.board;
 
 /**
  * Cell Position Class
@@ -18,5 +18,20 @@ public class CellPosition {
 
     public int getCol() {
         return col;
+    }
+
+    @Override
+    public String toString(){
+        return null;
+    }
+
+    @Override
+    public int hashCode(){
+        return 0;
+    }
+
+    @Override
+    public boolean equals(Object o){
+        return false;
     }
 }
