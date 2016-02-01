@@ -1,7 +1,8 @@
-package in.salaikumar.oodesign.chess.board;
+package in.salaikumar.oodesign.chess.board.core;
 
+import in.salaikumar.oodesign.chess.board.core.CellPosition;
 import in.salaikumar.oodesign.chess.utils.Color;
-import in.salaikumar.oodesign.chess.warrior.Warrior;
+import in.salaikumar.oodesign.chess.chesspiece.core.Warrior;
 
 /**
  * Position in the Chess Board

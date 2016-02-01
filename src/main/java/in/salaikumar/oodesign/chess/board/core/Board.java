@@ -1,4 +1,4 @@
-package in.salaikumar.oodesign.chess.board;
+package in.salaikumar.oodesign.chess.board.core;
 
 import java.util.ArrayList;
 import java.util.List;

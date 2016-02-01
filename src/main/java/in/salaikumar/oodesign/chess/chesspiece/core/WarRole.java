@@ -1,4 +1,4 @@
-package in.salaikumar.oodesign.chess.warrior;
+package in.salaikumar.oodesign.chess.chesspiece.core;
 
 /**
  *
