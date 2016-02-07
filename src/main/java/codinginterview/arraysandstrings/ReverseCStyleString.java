@@ -28,6 +28,6 @@ public class ReverseCStyleString {
 
         return new String(inputArray);
     }
-    
+
 }
 
