@@ -1,5 +1,6 @@
-package codinginterview.arraysandstrings;
+package codinginterview;
 
+import codinginterview.arraysandstrings.Anagrams;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;

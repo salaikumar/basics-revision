@@ -1,5 +1,6 @@
-package codinginterview.arraysandstrings;
+package codinginterview;
 
+import codinginterview.arraysandstrings.ReverseCStyleString;
 import org.junit.Test;
 
 import static org.hamcrest.core.Is.is;
